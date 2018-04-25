@@ -1,2 +1,0 @@
--alterar stop_ids iguais (procurar e mapear os s/cad)
--espaços entre os campos
